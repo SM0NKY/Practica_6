@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si usas este trabajo, por favor cítalo como se indica a continuación."
+title: "Practica_6"
+authors:
+  - family-names: "SM0NKY"
+    given-names: ""
+date-released: "2025-03-12"
+version: "1.0.0"
+repository-code: "c:/Programación/Python/Registros-Pedagogia/CITATION.cff"
+doi: ""
